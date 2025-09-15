@@ -43,7 +43,7 @@
 
 ## 📂 Projetos em Destaque  
 
-### 🍽️ [Efood Delivery](https://github.com/emersonTSsantos/efood-delivery) *(Jan/2025)*  
+### 🍽️ [Efood Delivery](https://github.com/emersonTSsantos/Efood) *(Jan/2025)*  
 Clone inspirado no iFood, desenvolvido com **React, TypeScript e Redux**.  
 ✅ Carrinho dinâmico com Redux  
 ✅ Integração com API via AJAX  
@@ -62,7 +62,7 @@ API para gerenciamento de livraria online com **Django REST Framework**.
 
 ---
 
-### 🏦 [Sistema Bancário](https://github.com/emersonTSsantos/sistema-bancario) *(Jun/2024)*  
+### 🏦 [Sistema Bancário](https://github.com/emersonTSsantos/Sistema_Bancario_com_Python/tree/sistema_banc%C3%A1rio_v3) *(Jun/2024)*  
 Sistema bancário em **Python (POO)**.  
 ✅ Cadastro de clientes e contas  
 ✅ Depósitos, saques e extratos  
@@ -86,10 +86,9 @@ Sistema bancário em **Python (POO)**.
 ---
 
 ## 📫 Contato  
-🌐 [LinkedIn](https://www.linkedin.com/in/emersonTSsantos)  
+🌐 [LinkedIn](https://www.linkedin.com/in/emerson-teixeira-/)  
 📧 **emersonteixeira003@gmail.com**  
-📱 **(11) 95439-3351**  
-🐙 [GitHub](https://github.com/emersonTSsantos)  
+📱 **(11) 95439-3351**   
 
 ---
 
