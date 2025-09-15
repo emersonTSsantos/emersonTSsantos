@@ -52,7 +52,7 @@ Clone inspirado no iFood, desenvolvido com **React, TypeScript e Redux**.
 
 ---
 
-### 📚 [BookStore API](https://github.com/emersonTSsantos/bookstore-api) *(Jul/2025)*  
+### 📚 [BookStore API](https://github.com/emersonTSsantos/BookStore) *(Jul/2025)*  
 API para gerenciamento de livraria online com **Django REST Framework**.  
 ✅ CRUD de pedidos e produtos  
 ✅ Autenticação com tokens  
