@@ -1,96 +1,172 @@
 # 👋 Olá, eu sou o Emerson Teixeira  
 
-💻 Desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecnologia e pela criação de soluções digitais completas — do front-end ao back-end. Tenho experiência prática com **React, Redux, Styled-components, Python e Django REST Framework**, além de vivência em **BI com Power BI** para análise de dados.  
+🔍 **Quality Assurance (QA) | Testes de Software | Automação de Testes**
+
+Sou um profissional de tecnologia focado em **Qualidade de Software**, com uma visão completa do ciclo de desenvolvimento por também possuir experiência prática em **desenvolvimento Full Stack**.  
+
+Meu objetivo é garantir **produtos confiáveis, bem testados e com alta qualidade**, atuando desde a análise de requisitos até a validação final das entregas. Busco evoluir constantemente em **testes automatizados**, principalmente com **Cypress**, além de aplicar boas práticas de testes manuais, análise crítica de sistemas e mentalidade de **prevenção de falhas**.
+
+Ter conhecimento em desenvolvimento me permite compreender melhor **arquitetura de sistemas, APIs, fluxo de dados e comportamento das aplicações**, contribuindo para testes mais estratégicos e eficientes.
 
 ---
 
-## 🚀 Sobre mim
-- 🎯 Objetivo: Atuar como **Desenvolvedor Full Stack**  
-- 📚 Formação em andamento: **Análise e Desenvolvimento de Sistemas – Anhembi Morumbi (2023-2025)**  
-- 🎓 Curso profissionalizante: **Desenvolvedor Full Stack Python – EBAC (2023-2025)**  
-- 📊 Experiência em **criação de dashboards interativos e análise de dados** (SSK Análises Mercadológicas)  
-- 🧩 Perfil proativo, sempre em busca de aprendizado e soluções criativas  
+# 🚀 Sobre mim
+
+- 🎯 Objetivo: Atuar como **QA / Analista de Testes de Software**
+- 📚 Formação Completa: **Análise e Desenvolvimento de Sistemas – Anhembi Morumbi (2023–2025)**
+- 🎓 Formação profissional: **Desenvolvedor Full Stack Python – EBAC**
+- 🔎 Conhecimento em **testes manuais, análise de requisitos e criação de cenários de teste**
+- 🤖 Estudando **automação de testes com Cypress (nível avançado)**
+- 🧠 Conhecimento em **Scrum, fluxo ágil, Jira e ciclo de vida do software**
+- 📊 Experiência com **análise de dados e dashboards em Power BI**
+- 🧩 Perfil analítico, organizado e orientado à qualidade
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# 🧪 Conhecimentos em Qualidade de Software
 
-### 🌐 Front-end
+✔ Testes Manuais  
+✔ Testes Funcionais  
+✔ Testes Exploratórios  
+✔ Testes de Regressão  
+✔ Criação de Casos de Teste  
+✔ Criação de Checklists de Teste  
+✔ Análise de Requisitos e User Stories  
+✔ Registro e acompanhamento de Bugs  
+✔ Mentalidade de **prevenção de falhas**
+
+### 🤖 Automação de Testes
+
+- Cypress  
+- Selenium  
+- JUnit  
+- REST Assured  
+- Estruturação de testes automatizados  
+- Boas práticas de automação  
+
+### 📋 Metodologias e Processos
+
+- Scrum  
+- Kanban  
+- Jira  
+- Ciclo de vida do software (SDLC)  
+- TDD e BDD  
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+## 💻 Desenvolvimento (diferencial para QA)
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Back-end
+## ⚙️ Back-end
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Banco de Dados
+## 🧪 Test Automation
+
+![Cypress](https://img.shields.io/badge/Cypress-Test_Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Web_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-Test_Framework-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-API_Testing-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+
+## 🗄️ Banco de Dados
+
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Ferramentas
+## 🔧 Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 📂 Projetos em Destaque  
+# 📂 Projetos em Destaque
 
-### 🍽️ [Efood Delivery](https://github.com/emersonTSsantos/Efood) *(Jan/2025)*  
-Clone inspirado no iFood, desenvolvido com **React, TypeScript e Redux**.  
-✅ Carrinho dinâmico com Redux  
-✅ Integração com API via AJAX  
-✅ Formulário avançado com Formik + Yup  
-✅ Interface moderna com styled-components  
+*(Além de demonstrar habilidades de desenvolvimento, esses projetos também são utilizados por mim para praticar testes, validação de APIs e análise do comportamento das aplicações.)*
 
 ---
 
-### 📚 [BookStore API](https://github.com/emersonTSsantos/BookStore) *(Jul/2025)*  
-API para gerenciamento de livraria online com **Django REST Framework**.  
-✅ CRUD de pedidos e produtos  
-✅ Autenticação com tokens  
-✅ Deploy automatizado (PythonAnywhere + GitHub)  
-✅ Testes automatizados e qualidade de código (Black, Flake8, Mypy)  
-✅ Docker + Poetry para ambiente isolado  
+## 🍽️ [Efood Delivery](https://github.com/emersonTSsantos/Efood)
+
+Clone inspirado no iFood desenvolvido com **React + TypeScript + Redux**.
+
+✔ Interface dinâmica e responsiva  
+✔ Integração com API  
+✔ Carrinho de compras com Redux  
+✔ Formulário avançado com Formik + Yup  
+
+💡 Utilizado também para **estudos de testes de interface e fluxo de usuário**.
 
 ---
 
-### 🏦 [Sistema Bancário](https://github.com/emersonTSsantos/Sistema_Bancario_com_Python/tree/sistema_banc%C3%A1rio_v3) *(Jun/2024)*  
-Sistema bancário em **Python (POO)**.  
-✅ Cadastro de clientes e contas  
-✅ Depósitos, saques e extratos  
-✅ Controle de limites e saques diários  
-✅ Aplicação do padrão Iterator  
+## 📚 [BookStore API](https://github.com/emersonTSsantos/BookStore)
+
+API REST desenvolvida com **Django REST Framework**.
+
+✔ CRUD completo de produtos e pedidos  
+✔ Autenticação com Token  
+✔ Testes automatizados  
+✔ Qualidade de código com Black, Flake8 e Mypy  
+✔ Docker + deploy automatizado  
+
+💡 Projeto utilizado para **estudos de testes de API e validação de endpoints**.
 
 ---
 
-## 💼 Experiência Profissional  
+## 🏦 [Sistema Bancário em Python](https://github.com/emersonTSsantos/Sistema_Bancario_com_Python/tree/sistema_banc%C3%A1rio_v3)
 
-**🔹 Analista de BI – SSK Análises Mercadológicas (Out/2024 – Dez/2024)**  
-- Criação de dashboards interativos em Power BI  
-- Integração de dados e análises mercadológicas  
-- Suporte a pesquisas e identificação de tendências  
+Sistema desenvolvido com **Python e Programação Orientada a Objetos**.
 
-**🔹 Coordenador de Produção – Polycol (2015 – 2023)**  
-- Gestão de processos produtivos e equipe  
-- Implementação de melhorias contínuas  
-- Controle de estoque, máquinas e produtividade  
+✔ Cadastro de clientes  
+✔ Operações bancárias (depósito, saque, extrato)  
+✔ Controle de limites e regras de negócio  
+
+💡 Projeto utilizado para **validação de regras de negócio e testes de lógica**.
 
 ---
 
-## 📫 Contato  
-🌐 [LinkedIn](https://www.linkedin.com/in/emerson-teixeira-/)  
+# 💼 Experiência Profissional
+
+### 🔹 Analista de BI  
+**SSK Análises Mercadológicas**
+
+- Criação de dashboards interativos em **Power BI**
+- Integração de dados de múltiplas fontes
+- Apoio a análises de mercado e tomada de decisão
+
+### 🔹 Coordenador de Produção  
+**Polycol**
+
+- Gestão de processos produtivos e equipe
+- Implementação de melhorias contínuas
+- Controle de produtividade e qualidade
+
+---
+
+# 📫 Contato
+
+🌐 LinkedIn  
+https://www.linkedin.com/in/emerson-teixeira-/
+
 📧 **emersonteixeira003@gmail.com**  
-📱 **(11) 95439-3351**   
+
+📱 **(11) 95439-3351**
 
 ---
 
-✨ *"Transformando ideias em soluções digitais que fazem a diferença."*  
+⭐ **Foco atual:**  
+Aprofundamento em **Testes Automatizados com Cypress**, qualidade de software e boas práticas de QA.
 
+---
+
+💡 *"Qualidade não é apenas encontrar bugs, é garantir que o software entregue valor real ao usuário."*
