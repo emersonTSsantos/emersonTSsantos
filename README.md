@@ -96,6 +96,35 @@ Ter conhecimento em desenvolvimento me permite compreender melhor **arquitetura 
 
 ---
 
+## 🍽️ [QA Manual Test Project -- Swag Labs](https://github.com/emersonTSsantos/QA-test-project-swaglabs)
+
+Desenvolvimento de um projeto completo de Quality Assurance (QA) Manual, utilizando a aplicação Swag Labs 
+como sistema de estudo para simular o fluxo real de trabalho de um analista de testes. O projeto foi estruturado 
+seguindo boas práticas de planejamento, modelagem e execução de testes, com documentação organizada e 
+baseada em práticas utilizadas em ambientes profissionais de QA. 
+
+As principais atividades desenvolvidas incluem: 
+
+✔  Análise do sistema, identificando funcionalidades críticas como autenticação, inventário de produtos, 
+carrinho de compras e fluxo de checkout. 
+✔  Criação de User Stories, estruturadas com regras de negócio e critérios de aceitação para representar os 
+requisitos do sistema sob a perspectiva do usuário. 
+✔  Modelagem de cenários de teste utilizando Mind Map, permitindo visualizar de forma clara as 
+funcionalidades do sistema e possíveis caminhos de teste. 
+✔  Elaboração de casos de teste no formato BDD (Behavior Driven Development) utilizando a estrutura Given 
+/ When / Then para descrever comportamentos esperados do sistema. 
+✔  Criação de casos de teste detalhados no formato Step-by-Step, contendo passos de execução e resultados 
+esperados, simulando documentação utilizada em testes manuais profissionais. 
+✔  Execução de testes manuais funcionais, validando comportamentos da aplicação e verificando o 
+funcionamento correto das funcionalidades. 
+✔  Identificação e documentação de bugs, incluindo descrição do defeito, passos para reprodução, resultado 
+esperado e resultado atual. 
+✔  Organização da documentação de testes em repositório Git, simulando um ambiente de trabalho 
+colaborativo e boas práticas de versionamento. 
+✔  Estruturação do projeto com documentação clara incluindo análise do sistema, histórias de usuário, mind 
+map de testes, casos de teste e relatórios de defeitos, simulando um ciclo completo de QA.
+
+
 ## 🍽️ [Efood Delivery](https://github.com/emersonTSsantos/Efood)
 
 Clone inspirado no iFood desenvolvido com **React + TypeScript + Redux**.
