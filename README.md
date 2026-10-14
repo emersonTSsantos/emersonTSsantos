@@ -73,7 +73,7 @@ Ter conhecimento em desenvolvimento me permite compreender melhor **arquitetura 
 ## 🧪 Test Automation
 
 ![Cypress](https://img.shields.io/badge/Cypress-Test_Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Selenium-Web_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Web_Automation-43B02A?style=for-the-badge&logo=Playwright&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-Test_Framework-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-API_Testing-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 
