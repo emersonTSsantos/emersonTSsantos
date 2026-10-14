@@ -37,8 +37,8 @@ Ter conhecimento em desenvolvimento me permite compreender melhor **arquitetura 
 
 ### 🤖 Automação de Testes
 
-- Cypress  
-- Selenium  
+- Cypress + JS
+- Playwright + Typescript  
 - JUnit  
 - REST Assured  
 - Estruturação de testes automatizados  
